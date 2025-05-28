@@ -11,10 +11,6 @@ This project features a cute UI and supports basic arithmetic operations.
 - Built with React functional components and hooks
 - Easy to run and build
 
-## Demo
-
-![screenshot](screenshot.png)
-*(Add a screenshot of your calculator here if you like)*
 
 ## Getting Started
 
